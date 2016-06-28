@@ -1,5 +1,8 @@
 First commit
 Merge commit
+
+Inside commit
+
 123
 s!
 commit for git gui
