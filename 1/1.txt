@@ -6,3 +6,5 @@ Inside commit
 123
 s!
 commit for git gui
+
+Cherry-pick 1
